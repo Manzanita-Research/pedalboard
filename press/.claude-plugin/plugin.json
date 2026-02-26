@@ -1,0 +1,12 @@
+{
+  "name": "press",
+  "version": "0.1.0",
+  "description": "EPK generator, press releases, and one-sheets for independent musicians.",
+  "author": {
+    "name": "Manzanita Research",
+    "url": "https://github.com/manzanita-research/pedalboard"
+  },
+  "repository": "https://github.com/manzanita-research/pedalboard",
+  "license": "MIT",
+  "keywords": ["music", "epk", "press-kit", "musician"]
+}

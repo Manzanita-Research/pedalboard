@@ -1,0 +1,7 @@
+.planning
+.social
+name-check-workspace/
+img/
+.DS_Store
+node_modules/
+.claude/settings.local.json

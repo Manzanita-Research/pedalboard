@@ -1,0 +1,82 @@
+[
+  {
+    "query": "is the name Glass Animals taken? i've been using it as a working title for my duo project but now we're about to release and i want to make sure nobody else has it",
+    "should_trigger": true
+  },
+  {
+    "query": "would Waterstrider be a good band name? we play kind of dreamy indie folk and i want something that feels organic but not too common",
+    "should_trigger": true
+  },
+  {
+    "query": "can i use the name Luna Verde for my solo project? i make ambient electronic stuff, mostly releasing on bandcamp so far",
+    "should_trigger": true
+  },
+  {
+    "query": "i'm thinking of calling my new project Nightshade — any conflicts out there? we're a 3-piece post-punk band based in Oakland",
+    "should_trigger": true
+  },
+  {
+    "query": "check if anyone's already using \"Copper Summit\" on spotify or apple music. my old band broke up and i'm starting fresh",
+    "should_trigger": true
+  },
+  {
+    "query": "my friend and i are starting a band and we can't decide between \"Sage & Stone\" and \"Thornfield\" — can you check both and tell me which one has fewer conflicts?",
+    "should_trigger": true
+  },
+  {
+    "query": "hey so i just came up with the name \"Pale Honey\" for my bedroom pop project, is that already a thing? i haven't checked anywhere yet",
+    "should_trigger": true
+  },
+  {
+    "query": "i want to release music under \"JVNE\" but i'm worried it's too close to other artists with similar names. like june, jvna, etc. can you look into it?",
+    "should_trigger": true
+  },
+  {
+    "query": "we've been going by \"The Wrecks\" at local shows but before we put anything on streaming i need to know if that name is clear",
+    "should_trigger": true
+  },
+  {
+    "query": "thinking about rebranding from my real name to something more memorable. would \"Foxglove\" work as an artist name or is it too crowded?",
+    "should_trigger": true
+  },
+  {
+    "query": "can you write a short bio for my band? we're called Pale Honey and we play bedroom pop influenced by Japanese Breakfast and Clairo",
+    "should_trigger": false
+  },
+  {
+    "query": "design a logo concept for my project Nightshade — something minimal, maybe a botanical illustration vibe",
+    "should_trigger": false
+  },
+  {
+    "query": "help me come up with 10 band name ideas. we're an indie folk duo from northern california and we like nature-inspired names",
+    "should_trigger": false
+  },
+  {
+    "query": "i need to set up my artist profile on spotify for artists. can you walk me through the verification process?",
+    "should_trigger": false
+  },
+  {
+    "query": "check the mix levels on this track — the vocals feel buried under the guitars especially in the chorus",
+    "should_trigger": false
+  },
+  {
+    "query": "can you help me figure out how to split royalties with my bandmates? we wrote the songs together but i did all the production",
+    "should_trigger": false
+  },
+  {
+    "query": "i want to register a trademark for my band name. what's the process and roughly how much does it cost?",
+    "should_trigger": false
+  },
+  {
+    "query": "help me find venues in portland that book indie bands for 100-200 capacity shows",
+    "should_trigger": false
+  },
+  {
+    "query": "what's the best distributor for getting my music on streaming platforms? i've heard of distrokid and tunecore but i'm not sure which to pick",
+    "should_trigger": false
+  },
+  {
+    "query": "can you look up the band Radiohead on musicbrainz and tell me their discography? i'm doing research for a music history essay",
+    "should_trigger": false
+  }
+]

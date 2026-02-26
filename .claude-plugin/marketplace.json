@@ -1,0 +1,28 @@
+{
+  "name": "pedalboard",
+  "owner": {
+    "name": "Manzanita Research"
+  },
+  "plugins": [
+    {
+      "name": "branding",
+      "source": "./branding",
+      "description": "Check if your stage name is taken across streaming and social platforms."
+    },
+    {
+      "name": "press",
+      "source": "./press",
+      "description": "EPK generator, press releases, and one-sheets for independent musicians."
+    },
+    {
+      "name": "booking",
+      "source": "./booking",
+      "description": "Venue research and booking tools for independent musicians."
+    },
+    {
+      "name": "legal",
+      "source": "./legal",
+      "description": "Split sheets and legal guidance for independent musicians."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "legal",
+  "version": "0.1.0",
+  "description": "Split sheets and legal guidance for independent musicians.",
+  "author": {
+    "name": "Manzanita Research",
+    "url": "https://github.com/manzanita-research/pedalboard"
+  },
+  "repository": "https://github.com/manzanita-research/pedalboard",
+  "license": "MIT",
+  "keywords": ["music", "legal", "split-sheet", "musician"]
+}

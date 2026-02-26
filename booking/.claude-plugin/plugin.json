@@ -1,0 +1,12 @@
+{
+  "name": "booking",
+  "version": "0.1.0",
+  "description": "Venue research and booking tools for independent musicians.",
+  "author": {
+    "name": "Manzanita Research",
+    "url": "https://github.com/manzanita-research/pedalboard"
+  },
+  "repository": "https://github.com/manzanita-research/pedalboard",
+  "license": "MIT",
+  "keywords": ["music", "venues", "booking", "musician", "live-music"]
+}

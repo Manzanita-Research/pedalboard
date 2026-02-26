@@ -1,0 +1,20 @@
+{
+  "skill_name": "name-check",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "check if the stage name Radiohead is available",
+      "expected_output": "Not Recommended / High Risk — iconic band, obvious conflict"
+    },
+    {
+      "id": 1,
+      "prompt": "is the artist name Yerba Buena Fog taken? thinking about using it for my ambient project",
+      "expected_output": "Likely Recommended or Caution — obscure name, may find some Yerba Buena related matches"
+    },
+    {
+      "id": 2,
+      "prompt": "stage name check: Dua Lipa",
+      "expected_output": "Not Recommended / High Risk — one of the biggest pop artists in the world"
+    }
+  ]
+}
