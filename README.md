@@ -27,12 +27,37 @@ Once installed, Pedalboard's skills are available in any session.
 
 Pedalboard is separated into several modules representing the many "hats" that independent musicians wear, and they can be installed separately.
 
-| Plugin       | What it does                                                            | Status      |
-| ------------ | ----------------------------------------------------------------------- | ----------- |
-| **booking**  | Venue research and booking tools                                        | Coming soon |
-| **branding** | Check if your stage name is taken across streaming and social platforms | Active      |
-| **press**    | EPK generator, press releases, and one-sheets                           | Coming soon |
-| **legal**    | Split sheets and legal guidance                                         | Coming soon |
+| Plugin       | What it does                                                               | Status      |
+| ------------ | -------------------------------------------------------------------------- | ----------- |
+| **artist**   | Guided artist onboarding that creates ARTIST.md and DESIGN.md context      | Active      |
+| **branding** | Check if your stage name is taken across streaming and social platforms    | Active      |
+| **promo**    | Social video, captions, show recaps, release campaigns, and fan footage    | Planned     |
+| **video**    | Lyric videos, visualizers, reel cutdowns, and motion assets                | Planned     |
+| **booking**  | Venue research and booking tools                                           | Later       |
+| **press**    | EPK generator, press releases, and one-sheets                              | Later       |
+| **legal**    | Split sheets and legal guidance                                            | Deferred    |
+
+### Artist
+
+### onboard
+
+Guided onboarding for an artist project. It asks focused questions one at a time, then writes `ARTIST.md` and `DESIGN.md` so later Pedalboard skills can make promo, video, campaign, and brand assets that feel specific to the artist.
+
+**Use it:**
+
+```
+/artist:onboard
+```
+
+Optional modes:
+
+```
+/artist:onboard quick
+/artist:onboard deep
+/artist:onboard from-links
+/artist:onboard from-assets
+/artist:onboard refresh
+```
 
 ### Branding
 

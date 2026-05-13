@@ -5,6 +5,11 @@
   },
   "plugins": [
     {
+      "name": "artist",
+      "source": "./artist",
+      "description": "Guided artist onboarding that creates ARTIST.md and DESIGN.md context for promo, video, and campaign work."
+    },
+    {
       "name": "branding",
       "source": "./branding",
       "description": "Check if your stage name is taken across streaming and social platforms."
