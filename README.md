@@ -59,6 +59,24 @@ Optional modes:
 /artist:onboard refresh
 ```
 
+### stylescape
+
+Visual direction exploration for artist projects. It reads `ARTIST.md` and `DESIGN.md`, proposes distinct visual lanes, uses image generation when available, then turns the selected lane into sharper brand guidelines.
+
+**Use it:**
+
+```
+/artist:stylescape
+```
+
+Optional modes:
+
+```
+/artist:stylescape quick
+/artist:stylescape deep
+/artist:stylescape refresh
+```
+
 ### Branding
 
 ### name-check

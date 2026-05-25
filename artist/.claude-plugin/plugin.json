@@ -1,12 +1,12 @@
 {
   "name": "artist",
   "version": "0.1.0",
-  "description": "Guided artist onboarding that creates ARTIST.md and DESIGN.md context for promo, video, and campaign work.",
+  "description": "Artist onboarding and visual stylescape tools that create ARTIST.md and DESIGN.md context for promo, video, and campaign work.",
   "author": {
     "name": "Manzanita Research",
     "url": "https://github.com/manzanita-research/pedalboard"
   },
   "repository": "https://github.com/manzanita-research/pedalboard",
   "license": "MIT",
-  "keywords": ["music", "artist", "onboarding", "promo", "brand-kit", "musician"]
+  "keywords": ["music", "artist", "onboarding", "stylescape", "promo", "brand-kit", "musician"]
 }
